@@ -1,71 +1,51 @@
-# Express-Stops
-The Express Train is pulling in the station!
 
-keep doing what you are doing dan! ヾ(＾∇＾)
-I am making a #short b/c I am young and hip!
-Wow this is too fast!
-I'm old.
-
-# Cool Art
-```
-    o o o o o o o . . .   ______________________________ _____=======_||____
-   o      _____           ||                            | |   __   __   __  |
- .][__n_n_|DD[  ====_____  |     The Coding Train       | |  |\o| |__| |__| |
->(________|__|_[_________]_|____________________________|_|__|__|___________|
-_/oo OOOOO oo`  ooo   ooo  'o!o!o                  o!o!o` 'o!o         o!o`
--+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
-```
-# Train Stop
-```
-   //////-------------------------------------------------\\\\\\
-   ||  |             All aboard The Coding Train!          |  ||
-   ||  |               Next Stop: ♪ This Dot ♪             |  ||
-   ||\\\\-------------------------------------------------////||
-   ||                                                         ||
-   ||                               \O                        ||
- __||__                              |\                     __||__
-|______|____________________________/_\____________________|______|
-```
-
-# Maze
-```
-⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬜⬜⬜⬜⬜⬜⬜⬛
-⬛⬜⬛⬜⬛⬛⬛⬛⬛⬛⬛⬜⬛⬜⬛⬛⬛⬛⬛⬜⬛
-⬛⬜⬛⬜⬛⬜⬛⬜⬜⬜⬜⬜⬛⬜⬜⬜⬜⬜⬛⬜⬛
-⬛⬜⬛⬜⬛⬜⬛⬜⬛⬛⬛⬜⬛⬜⬛⬛⬛⬜⬛⬜⬛
-⬛⬜⬛⬜⬛⬜⬜⬜⬛⬜⬜⬜⬛⬜⬛⬜⬜⬜⬛⬜⬛
-⬛⬛⬛⬜⬛⬜⬛⬛⬛⬜⬛⬜⬛⬜⬛⬜⬛⬛⬛⬜⬛
-⬛⬜⬜⬜⬛⬜⬜⬜⬛⬜⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛
-⬛⬜⬛⬛⬛⬛⬛⬜⬛⬜⬛⬛⬛⬛⬛⬜⬛⬛⬛⬛⬛
-⬜⬜⬜⬜⬜⬜⬛⬜⬜⬜⬛⬜⬜⬜⬛⬜⬜⬜⬜⬜⬛
-⬛⬜⬛⬛⬛⬜⬛⬛⬛⬜⬛⬜⬛⬜⬛⬛⬛⬛⬛⬜⬛
-⬛⬜⬛⬜⬜⬜⬛⬜⬛⬜⬛⬜⬛⬜⬜⬜⬜⬜⬛⬜⬜
-⬛⬜⬛⬜⬛⬛⬛⬜⬛⬛⬛⬜⬛⬜⬛⬛⬛⬜⬛⬜⬛
-⬛⬜⬛⬜⬜⬜⬛⬜⬜⬜⬜⬜⬛⬜⬜⬜⬜⬜⬛⬜⬛
-⬛⬜⬛⬛⬛⬜⬛⬛⬛⬛⬛⬛⬛⬜⬛⬛⬛⬛⬛⬜⬛
-⬛⬜⬛⬜⬛⬜⬜⬜⬜⬜⬛⬜⬜⬜⬛⬜⬜⬜⬜⬜⬛
-⬛⬜⬛⬜⬛⬛⬛⬛⬛⬜⬛⬜⬛⬛⬛⬜⬛⬛⬛⬛⬛
-⬛⬜⬛⬜⬜⬜⬜⬜⬜⬜⬛⬜⬜⬜⬛⬜⬛⬜⬜⬜⬛
-⬛⬜⬛⬛⬛⬜⬛⬜⬛⬛⬛⬛⬛⬜⬛⬜⬛⬛⬛⬜⬛
-⬛⬜⬜⬜⬜⬜⬛⬜⬜⬜⬜⬜⬜⬜⬛⬜⬜⬜⬜⬜⬛
-⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-```
-
-### Choo-Choo ASCII
-
-``` yaml
-          _             _       _    _            _                     _             _       _    _            _       
-        /\ \           / /\    / /\ /\ \         /\ \                 /\ \           / /\    / /\ /\ \         /\ \     
-       /  \ \         / / /   / / //  \ \       /  \ \               /  \ \         / / /   / / //  \ \       /  \ \    
-      / /\ \ \       / /_/   / / // /\ \ \     / /\ \ \             / /\ \ \       / /_/   / / // /\ \ \     / /\ \ \   
-     / / /\ \ \     / /\ \__/ / // / /\ \ \   / / /\ \ \   ____    / / /\ \ \     / /\ \__/ / // / /\ \ \   / / /\ \ \  
-    / / /  \ \_\   / /\ \___\/ // / /  \ \_\ / / /  \ \_\/\____/\ / / /  \ \_\   / /\ \___\/ // / /  \ \_\ / / /  \ \_\ 
-   / / /    \/_/  / / /\/___/ // / /   / / // / /   / / /\/____\// / /    \/_/  / / /\/___/ // / /   / / // / /   / / / 
-  / / /          / / /   / / // / /   / / // / /   / / /        / / /          / / /   / / // / /   / / // / /   / / /  
- / / /________  / / /   / / // / /___/ / // / /___/ / /        / / /________  / / /   / / // / /___/ / // / /___/ / /   
-/ / /_________\/ / /   / / // / /____\/ // / /____\/ /        / / /_________\/ / /   / / // / /____\/ // / /____\/ /    
-\/____________/\/_/    \/_/ \/_________/ \/_________/         \/____________/\/_/    \/_/ \/_________/ \/_________/     
-                                                                                                                        
-```
-Love the Nature Of Code Series!!! :) Beatrix
+===== CYBER THREAT LOG REPORT =====
+Name: Rozel M. Raper
+Handle: CyberNova
+Start Time: 2026-09-21 17:37:22.754652
+End Time: 2026-09-21 17:42:31.414277
+Duration (minutes): 5.14
+Score: 7/10
+Rating: ADVANCED
+---- Threat Logs ----
+Threat: Proxy Web Exploit
+ALERT: Possible brute force attempt detected
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: RDP Brute Force Attack
+CRITICAL: Ransomware activity suspected via
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: FTP Credential Sniffing
+NOTICE: Suspicious traffic pattern detected targeting port 
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+Threat: DNS Amplification DDoS
+ALERT: Failed login attempt detected from 192.168.1.29 on port
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: SMB Ransomware Attack
+ALERT: Possible brute force attempt detected
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: MySQL Data Theft
+ALERT: Possible brute force attempt detected
+ALERT: Failed login attempt detected from 192.168.1.252 on port
+-------------------
+Threat: Telnet Credential Theft
+CRITICAL: Ransomware activity suspected via
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: HTTP Web Exploit
+ALERT: Failed login attempt detected from 192.168.1.9 on port
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: SMTP Phishing Campaign
+WARNING: Multiple authentication failures for service
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: POP3 Credential Sniffing
+ALERT: Possible brute force attempt detected
+CRITICAL: Ransomware activity suspected via
+-------------------
+===================================
